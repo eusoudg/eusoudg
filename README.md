@@ -8,7 +8,7 @@
 
 <img width="250" height="275" alt="Scott Pilgrim" src="https://github.com/user-attachments/assets/effc35e5-685e-4a96-a33d-99353fb4ab7d" />
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+formacao...;Entusiasta+de+Python+%2B+C;Sempre+criando+algo+novo!" alt="Typing SVG" />
 
 <br>
 
