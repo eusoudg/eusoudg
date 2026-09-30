@@ -1,16 +1,28 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**eusoudg/eusoudg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Opa! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<img width="250" height="275" alt="Scott Pilgrim" src="https://github.com/user-attachments/assets/effc35e5-685e-4a96-a33d-99353fb4ab7d" />
+
+
+
+<br>
+
+
+<br>
+
+
+### Linguagens que tenho conhecimento
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,git,html)](https://skillicons.dev)
+
+
+<br>
+
+
+</div> 
